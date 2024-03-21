@@ -19,9 +19,6 @@ jobs:
       with:
         nuget-version: 'latest'
 
-    - name: Restore NuGet packages
-      run: nuget restore YourSolution.sln
-
     - name: Build the project
       run: msbuild YourSolution.sln /p:Configuration=Release /p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:PackageLocation="${{ github.workspace }}/WebApp.zip" /p:DeployIisAppPath="Default Web Site"
 
