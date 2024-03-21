@@ -1,0 +1,15 @@
+D:\PBL\SQLRepository\bin\Debug\net8.0\SQLRepository.deps.json
+D:\PBL\SQLRepository\bin\Debug\net8.0\SQLRepository.dll
+D:\PBL\SQLRepository\bin\Debug\net8.0\SQLRepository.pdb
+D:\PBL\SQLRepository\obj\Debug\net8.0\SQLRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBL\SQLRepository\obj\Debug\net8.0\SQLRepository.AssemblyInfoInputs.cache
+D:\PBL\SQLRepository\obj\Debug\net8.0\SQLRepository.AssemblyInfo.cs
+D:\PBL\SQLRepository\obj\Debug\net8.0\SQLRepository.csproj.CoreCompileInputs.cache
+D:\PBL\SQLRepository\obj\Debug\net8.0\SQLRepository.dll
+D:\PBL\SQLRepository\obj\Debug\net8.0\refint\SQLRepository.dll
+D:\PBL\SQLRepository\obj\Debug\net8.0\SQLRepository.pdb
+D:\PBL\SQLRepository\obj\Debug\net8.0\ref\SQLRepository.dll
+D:\PBL\SQLRepository\bin\Debug\net8.0\Common.dll
+D:\PBL\SQLRepository\bin\Debug\net8.0\Common.pdb
+D:\PBL\SQLRepository\obj\Debug\net8.0\SQLRepository.csproj.AssemblyReference.cache
+D:\PBL\SQLRepository\obj\Debug\net8.0\SQLRepository.csproj.CopyComplete

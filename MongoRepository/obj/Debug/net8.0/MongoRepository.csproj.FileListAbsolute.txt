@@ -1,0 +1,17 @@
+D:\PBL\MongoRepository\bin\Debug\net8.0\MongoRepository.deps.json
+D:\PBL\MongoRepository\bin\Debug\net8.0\MongoRepository.dll
+D:\PBL\MongoRepository\bin\Debug\net8.0\MongoRepository.pdb
+D:\PBL\MongoRepository\bin\Debug\net8.0\Common.dll
+D:\PBL\MongoRepository\bin\Debug\net8.0\SQLRepository.dll
+D:\PBL\MongoRepository\bin\Debug\net8.0\SQLRepository.pdb
+D:\PBL\MongoRepository\bin\Debug\net8.0\Common.pdb
+D:\PBL\MongoRepository\obj\Debug\net8.0\MongoRepository.csproj.AssemblyReference.cache
+D:\PBL\MongoRepository\obj\Debug\net8.0\MongoRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBL\MongoRepository\obj\Debug\net8.0\MongoRepository.AssemblyInfoInputs.cache
+D:\PBL\MongoRepository\obj\Debug\net8.0\MongoRepository.AssemblyInfo.cs
+D:\PBL\MongoRepository\obj\Debug\net8.0\MongoRepository.csproj.CoreCompileInputs.cache
+D:\PBL\MongoRepository\obj\Debug\net8.0\MongoRepository.csproj.CopyComplete
+D:\PBL\MongoRepository\obj\Debug\net8.0\MongoRepository.dll
+D:\PBL\MongoRepository\obj\Debug\net8.0\refint\MongoRepository.dll
+D:\PBL\MongoRepository\obj\Debug\net8.0\MongoRepository.pdb
+D:\PBL\MongoRepository\obj\Debug\net8.0\ref\MongoRepository.dll

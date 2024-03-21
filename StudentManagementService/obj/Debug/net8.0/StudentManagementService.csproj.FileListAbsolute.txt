@@ -1,0 +1,17 @@
+D:\PBL\StudentManagementService\bin\Debug\net8.0\StudentManagementService.deps.json
+D:\PBL\StudentManagementService\bin\Debug\net8.0\StudentManagementService.dll
+D:\PBL\StudentManagementService\bin\Debug\net8.0\StudentManagementService.pdb
+D:\PBL\StudentManagementService\bin\Debug\net8.0\SQLRepository.dll
+D:\PBL\StudentManagementService\bin\Debug\net8.0\SQLRepository.pdb
+D:\PBL\StudentManagementService\obj\Debug\net8.0\StudentManagementService.csproj.AssemblyReference.cache
+D:\PBL\StudentManagementService\obj\Debug\net8.0\StudentManagementService.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBL\StudentManagementService\obj\Debug\net8.0\StudentManagementService.AssemblyInfoInputs.cache
+D:\PBL\StudentManagementService\obj\Debug\net8.0\StudentManagementService.AssemblyInfo.cs
+D:\PBL\StudentManagementService\obj\Debug\net8.0\StudentManagementService.csproj.CoreCompileInputs.cache
+D:\PBL\StudentManagementService\obj\Debug\net8.0\StudentManagementService.csproj.CopyComplete
+D:\PBL\StudentManagementService\obj\Debug\net8.0\StudentManagementService.dll
+D:\PBL\StudentManagementService\obj\Debug\net8.0\refint\StudentManagementService.dll
+D:\PBL\StudentManagementService\obj\Debug\net8.0\StudentManagementService.pdb
+D:\PBL\StudentManagementService\obj\Debug\net8.0\ref\StudentManagementService.dll
+D:\PBL\StudentManagementService\bin\Debug\net8.0\Common.dll
+D:\PBL\StudentManagementService\bin\Debug\net8.0\Common.pdb

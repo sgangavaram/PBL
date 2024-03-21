@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PBL\\StudentManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEB13C6-43D0-47F2-A5A8-428FD2628DCD}|..\\Common\\Common.csproj|d:\\pbl\\common\\models\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ACA635-E8F9-4132-A91A-A1E680991CBC}|..\\SQLRepository\\SQLRepository.csproj|d:\\pbl\\sqlrepository\\istudentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEB13C6-43D0-47F2-A5A8-428FD2628DCD}|..\\Common\\Common.csproj|d:\\pbl\\common\\models\\studentclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB045F3-41C0-472E-B190-5BBB41ADF532}|StudentManagementAPI.csproj|d:\\pbl\\studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB045F3-41C0-472E-B190-5BBB41ADF532}|StudentManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB045F3-41C0-472E-B190-5BBB41ADF532}|StudentManagementAPI.csproj|d:\\pbl\\studentmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDB045F3-41C0-472E-B190-5BBB41ADF532}|StudentManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB045F3-41C0-472E-B190-5BBB41ADF532}|StudentManagementAPI.csproj|d:\\pbl\\studentmanagementapi\\studentmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDB045F3-41C0-472E-B190-5BBB41ADF532}|StudentManagementAPI.csproj|solutionrelative:studentmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B79E3FF-AFE1-4065-A262-A682E8D776D9}|..\\StudentManagementService\\StudentManagementService.csproj|d:\\pbl\\studentmanagementservice\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB045F3-41C0-472E-B190-5BBB41ADF532}|StudentManagementAPI.csproj|d:\\pbl\\studentmanagementapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB045F3-41C0-472E-B190-5BBB41ADF532}|StudentManagementAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B79E3FF-AFE1-4065-A262-A682E8D776D9}|..\\StudentManagementService\\StudentManagementService.csproj|d:\\pbl\\studentmanagementservice\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ACA635-E8F9-4132-A91A-A1E680991CBC}|..\\SQLRepository\\SQLRepository.csproj|d:\\pbl\\sqlrepository\\sqlrepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB045F3-41C0-472E-B190-5BBB41ADF532}|StudentManagementAPI.csproj|d:\\pbl\\studentmanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDB045F3-41C0-472E-B190-5BBB41ADF532}|StudentManagementAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1580F85C-0906-4AEE-A51E-A6E110ACD448}|..\\MongoRepository\\MongoRepository.csproj|d:\\pbl\\mongorepository\\studentdata2cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ACA635-E8F9-4132-A91A-A1E680991CBC}|..\\SQLRepository\\SQLRepository.csproj|d:\\pbl\\sqlrepository\\studentdata1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1580F85C-0906-4AEE-A51E-A6E110ACD448}|..\\MongoRepository\\MongoRepository.csproj|d:\\pbl\\mongorepository\\mongorepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB045F3-41C0-472E-B190-5BBB41ADF532}|StudentManagementAPI.csproj|d:\\pbl\\studentmanagementapi\\studentmanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BDB045F3-41C0-472E-B190-5BBB41ADF532}|StudentManagementAPI.csproj|solutionrelative:studentmanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\PBL\\StudentManagementService\\IStudentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementService\\IStudentService.cs",
+              "ToolTip": "D:\\PBL\\StudentManagementService\\IStudentService.cs",
+              "RelativeToolTip": "..\\StudentManagementService\\IStudentService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T16:56:31.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PBL\\StudentManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PBL\\StudentManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:28:55.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentClass2.cs",
+              "DocumentMoniker": "D:\\PBL\\Common\\Models\\StudentClass2.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Models\\StudentClass2.cs",
+              "ToolTip": "D:\\PBL\\Common\\Models\\StudentClass2.cs",
+              "RelativeToolTip": "..\\Common\\Models\\StudentClass2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:24:43.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PBL\\StudentManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\PBL\\StudentManagementAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T04:28:43.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentManagementAPI.csproj",
+              "DocumentMoniker": "D:\\PBL\\StudentManagementAPI\\StudentManagementAPI.csproj",
+              "RelativeDocumentMoniker": "StudentManagementAPI.csproj",
+              "ToolTip": "D:\\PBL\\StudentManagementAPI\\StudentManagementAPI.csproj",
+              "RelativeToolTip": "StudentManagementAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-01T05:23:26.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentData.cs",
+              "DocumentMoniker": "D:\\PBL\\SQLRepository\\IStudentData.cs",
+              "RelativeDocumentMoniker": "..\\SQLRepository\\IStudentData.cs",
+              "ToolTip": "D:\\PBL\\SQLRepository\\IStudentData.cs",
+              "RelativeToolTip": "..\\SQLRepository\\IStudentData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:13:43.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentClass.cs",
+              "DocumentMoniker": "D:\\PBL\\Common\\Models\\StudentClass.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Models\\StudentClass.cs",
+              "ToolTip": "D:\\PBL\\Common\\Models\\StudentClass.cs",
+              "RelativeToolTip": "..\\Common\\Models\\StudentClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T09:14:04.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\PBL\\StudentManagementService\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementService\\StudentService.cs",
+              "ToolTip": "D:\\PBL\\StudentManagementService\\StudentService.cs",
+              "RelativeToolTip": "..\\StudentManagementService\\StudentService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T08:57:36.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\PBL\\StudentManagementAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\PBL\\StudentManagementAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T09:57:54.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLRepository.csproj",
+              "DocumentMoniker": "D:\\PBL\\SQLRepository\\SQLRepository.csproj",
+              "RelativeDocumentMoniker": "..\\SQLRepository\\SQLRepository.csproj",
+              "ToolTip": "D:\\PBL\\SQLRepository\\SQLRepository.csproj",
+              "RelativeToolTip": "..\\SQLRepository\\SQLRepository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-24T09:24:41.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\PBL\\StudentManagementAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\PBL\\StudentManagementAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T09:30:02.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentData2cs.cs",
+              "DocumentMoniker": "D:\\PBL\\MongoRepository\\StudentData2cs.cs",
+              "RelativeDocumentMoniker": "..\\MongoRepository\\StudentData2cs.cs",
+              "ToolTip": "D:\\PBL\\MongoRepository\\StudentData2cs.cs",
+              "RelativeToolTip": "..\\MongoRepository\\StudentData2cs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T06:16:11.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentData1.cs",
+              "DocumentMoniker": "D:\\PBL\\SQLRepository\\StudentData1.cs",
+              "RelativeDocumentMoniker": "..\\SQLRepository\\StudentData1.cs",
+              "ToolTip": "D:\\PBL\\SQLRepository\\StudentData1.cs",
+              "RelativeToolTip": "..\\SQLRepository\\StudentData1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T06:01:10.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MongoRepository.csproj",
+              "DocumentMoniker": "D:\\PBL\\MongoRepository\\MongoRepository.csproj",
+              "RelativeDocumentMoniker": "..\\MongoRepository\\MongoRepository.csproj",
+              "ToolTip": "D:\\PBL\\MongoRepository\\MongoRepository.csproj",
+              "RelativeToolTip": "..\\MongoRepository\\MongoRepository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-03T06:49:28.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentManagementAPI.http",
+              "DocumentMoniker": "D:\\PBL\\StudentManagementAPI\\StudentManagementAPI.http",
+              "RelativeDocumentMoniker": "StudentManagementAPI.http",
+              "ToolTip": "D:\\PBL\\StudentManagementAPI\\StudentManagementAPI.http",
+              "RelativeToolTip": "StudentManagementAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-01T16:00:57.138Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
