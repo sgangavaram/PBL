@@ -3,7 +3,7 @@ name: Build and Test
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
@@ -16,13 +16,13 @@ jobs:
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: '3.1'  # Adjust the version as needed
+        dotnet-version: '9.0' 
         
     - name: Restore NuGet packages
-      run: dotnet restore $(solution)
+      run: dotnet restore ${{ github.workspace }}/**/*.sln
       
     - name: Build solution
-      run: dotnet build $(solution) --configuration $(buildConfiguration)
+      run: dotnet build ${{ github.workspace }}/**/*.sln --configuration $(buildConfiguration)
       
     - name: Test solution
-      run: dotnet test $(solution) --configuration $(buildConfiguration)
+      run: dotnet test ${{ github.workspace }}/**/*.sln --configuration $(buildConfiguration)
