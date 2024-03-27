@@ -1,34 +1,28 @@
-name: .NET Framework ASP.NET Core CI
+name: Build and Test
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: windows-latest
-
+    
     steps:
-    - uses: actions/checkout@v2
-
-    - name: Setup MSBuild Path
-      uses: microsoft/setup-msbuild@v1.1
+    - name: Checkout code
+      uses: actions/checkout@v2
       
-    - name: Setup NuGet
-      uses: NuGet/setup-nuget@v1
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v1
       with:
-        nuget-version: 'latest'
-
-    - name: Build the project
-      run: msbuild YourSolution.sln /p:Configuration=Release /p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:PackageLocation="${{ github.workspace }}/WebApp.zip" /p:DeployIisAppPath="Default Web Site"
-
-    - name: Test
-      run: |
-        $testAssemblies = "**\*test*.dll"
-        $testAdapterPath = "${{ github.workspace }}"
-        & "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe" $testAssemblies /TestAdapterPath:$testAdapterPath
-
-    - uses: actions/upload-artifact@v2
-      with:
-        name: webapp
-        path: ${{ github.workspace }}/WebApp.zip
+        dotnet-version: '3.1'  # Adjust the version as needed
+        
+    - name: Restore NuGet packages
+      run: dotnet restore $(solution)
+      
+    - name: Build solution
+      run: dotnet build $(solution) --configuration $(buildConfiguration)
+      
+    - name: Test solution
+      run: dotnet test $(solution) --configuration $(buildConfiguration)
