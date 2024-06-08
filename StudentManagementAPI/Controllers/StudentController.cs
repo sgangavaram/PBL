@@ -11,12 +11,16 @@ namespace StudentManagementAPI.Controllers
     [ApiController]
     public class StudentController : ControllerBase
     {
-        private readonly IStudentService _service;
+private readonly IStudentService _service;
 
-        public StudentController(IStudentService service)
-        {
-            _service = service;
-        }
+public StudentController(IStudentService service)
+{
+    _service = service;
+}
+
+
+
+
 
         [HttpGet]
         [Route("GetAllStudents")]
